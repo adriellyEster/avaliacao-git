@@ -1,0 +1,72 @@
+#body {
+    background-color: rgba(158, 175, 206, 0.977);
+    display: block;
+}
+
+.cabeçalho nav .lista {
+    padding-top: 35px;
+}
+
+.cabeçalho {
+    background-color: rgba(7, 36, 90, 0.977);
+    width: 100%;
+    height: 100px;
+}
+
+nav {
+    width: 100%;
+    height: 100px;
+    background: rgba(233, 202, 229, 0.977);
+}
+
+.lista li {
+    list-style: none;
+    display: inline-block;
+    float: left;
+}
+
+.lista li a {
+    font-size: 25px;
+    padding: 0 20px;
+}
+
+.lista li a:hover {
+    color: red;
+}
+
+.main {
+    float: left;
+    display: flex;
+    margin: 30pt;
+}
+
+.bem {
+    font-size: 50pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.email {
+    height: 70pt;
+    width: 40pt;
+    padding: 20pt;
+}
+
+.img {
+    display: inline-block;
+    margin-left: 200pt;
+    border: 3px 3px 3px 3px;
+    border-radius: 15%;
+    border-color: black;
+}
+
+.text {
+    float: left;
+}
+
+.text h1 {
+    float: left;
+}
+
+.text1 {
+    margin-top: 125px;
+}
