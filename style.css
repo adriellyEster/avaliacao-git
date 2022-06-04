@@ -31,7 +31,7 @@ nav {
 }
 
 .lista li a:hover {
-    color: red;
+    color: rgb(255, 0, 200);
 }
 
 .main {
